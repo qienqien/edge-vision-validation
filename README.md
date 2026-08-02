@@ -2,7 +2,7 @@
 
 > I revisited an early project and rebuilt it using the validation methodology I developed professionally.
 
-Edge Vision Validation is a reimagining of a Fall 2020 EE104 group project that
+Edge Vision Validation is a reimagining of a college group project that
 resized images and ran them through a CIFAR-10 classifier. The new goal is not
 simply to demonstrate image classification. It is to build a reproducible
 validation system that measures how an edge-vision pipeline behaves as its
@@ -73,7 +73,7 @@ edgevision validate \
 
 ## Project history and attribution
 
-The starting point was created for the EE104 Super Project in Fall 2020 by
+The starting point was created for the SJSU EE104 Super Project in Fall 2020 by
 Group 8. The original scripts are retained to document where the project began;
 the validation architecture and subsequent implementation are the reimagined
 work.
